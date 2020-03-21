@@ -1,0 +1,3 @@
+
+
+#define NEOPIXELS   2
